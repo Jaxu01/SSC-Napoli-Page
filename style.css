@@ -10,3 +10,16 @@ h1 {
     font-size: 16px;
     text-align: center;
 }
+
+.trophy-room {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.trophies {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    text-align: center;
+}
