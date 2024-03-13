@@ -38,5 +38,7 @@ h1 {
     height: 90%;
 }
 
-.trophy-seasons {
+.head-title {
+    font-size: 24px;
+    font-weight: 600;
 }
